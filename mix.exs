@@ -33,7 +33,7 @@ defmodule OAuth2Ex.Mixfile do
       {:exjsx, "~> 3.2"},
       {:cowboy, "~> 1.0"},
       {:plug, "~> 1.0"},
-      {:timex, "~> 0.19"},
+      {:timex, "~> 3.0"},
       {:excoveralls, "~> 0.4", only: :test},
       {:exvcr, "~> 0.5", only: :test}
     ]
